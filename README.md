@@ -1,7 +1,7 @@
 # Support-Ticket-Categorization
 Natural Language Processing
 # Installation
-## Install dependencies locally
+**Install dependencies locally**
   
   ```bash 
   pip install -r requirements.txt
