@@ -10,7 +10,7 @@ Natural Language Processing
 Note: These libraries were installed and tested using Python 3.8.5.
 ## Dataset
 
-- **Name:** `support_ticket_data.csv`
+- **Format:** `.csv` file with 21 records
 - **Structure:**
   - `support_tick_id`: Unique identifier for each ticket.
   - `support_ticket_text`: Free-text input describing the customer issue.
